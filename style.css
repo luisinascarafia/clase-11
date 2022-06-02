@@ -1,0 +1,33 @@
+html{
+    font-size: 62.5%;
+}
+.container-div{
+    margin: 0;
+    padding: 0;
+}
+.presentacion{
+    height: 100px;
+    padding: 5rem;
+    background-color: #b17653;
+    text-align: center;
+}
+.div1{
+    height: 150px;
+    padding: 3rem;
+    background-color: aquamarine;
+}
+.imgDiv1{
+    height: 150px;
+    padding: 3rem;
+    background-color: blue;
+}
+.div2{
+    height: 150px;
+    padding: 3rem;
+    background-color: red;
+}
+.imgDiv2{
+    height: 150px;
+    padding: auto;
+    background-color: antiquewhite;
+}
